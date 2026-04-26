@@ -2,7 +2,7 @@
 
 [![demo](https://img.shields.io/badge/demo-live-000?style=flat-square)](https://lite-embeds-demo.vercel.app/)
 [![deployed on vercel](https://img.shields.io/badge/deployed%20on-vercel-000?style=flat-square&logo=vercel&logoColor=white)](https://lite-embeds-demo.vercel.app/)
-[![license](https://img.shields.io/github/license/abderrahimghazali/lite-embeds-demo?style=flat-square&color=blue)](LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 Live demo for [`@lite-embeds/*`](https://github.com/abderrahimghazali/lite-embeds) — a family of privacy-first facade web components for social embeds.
 
