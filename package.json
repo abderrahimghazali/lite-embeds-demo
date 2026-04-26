@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@lite-embeds/instagram": "^0.1.0",
-    "@lite-embeds/spotify": "^0.1.1",
-    "@lite-embeds/tiktok": "^0.1.0",
-    "@lite-embeds/twitter": "^0.1.1",
-    "@lite-embeds/vimeo": "^0.1.1"
+    "@lite-embeds/instagram": "^0.1.1",
+    "@lite-embeds/spotify": "^0.1.2",
+    "@lite-embeds/tiktok": "^0.1.1",
+    "@lite-embeds/twitter": "^0.1.2",
+    "@lite-embeds/vimeo": "^0.1.2"
   },
   "devDependencies": {
     "typescript": "^5.6.0",
